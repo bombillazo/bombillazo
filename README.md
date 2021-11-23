@@ -9,6 +9,7 @@ I'm Hector, a.k.a. Bombillazo 💡
   - [LinkedIn](https://www.linkedin.com/in/bombillazo/)
   - [Twitter](https://twitter.com/bombillazo)
   - [Medium](https://bombillazo.medium.com/)
+  - Discord - bombillazo#1389
 - 😃 More about me: [bombillazo.com](https://www.bombillazo.com)
 - ⚡ Fun fact: I own a [Jurassic Park Jeep](https://www.bombillazo.com/content/jurassic-park-jeep-14)! 🚙🦖
 
