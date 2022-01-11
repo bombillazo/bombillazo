@@ -2,7 +2,7 @@
 
 I'm Hector, a.k.a. Bombillazo 💡
 
-- 👨‍💻 I’m currently working on [Hyperion](https://www.hyperion.finance/?referral-code=a7e73eb0c05f0c8e94525bb9ee31b837), an all-in-one banking solution for small businesses 🌲📈
+- 👨‍💻 I’m currently working on [Hyperion](https://www.hyperion.finance/?referral-code=a7e73eb0c05f0c8e94525bb9ee31b837), an all-in-one financial solution for small businesses 🌲📈
 - 💬 Ask me about opportunities to work with us!
 - 🌱 I’m currently learning React.
 - 📫 How to reach me:
