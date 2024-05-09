@@ -6,7 +6,7 @@ I'm Hector, a.k.a. Bombillazo 💡
 - ⚙️ I have over ten years of engineering experience and have worked on every part of the software architecture and development cycle. Currently, I'm building solutions using:
   - **Fullstack**: Typescript
   - **Front-end**: React
-  - **Back-end**: Deno, Node.js, PostgreSQL
+  - **Back-end**: Deno, PostgreSQL
   - **Infrastructure**: AWS, Pulumi
   - **DevOps**: GH Actions, bash
   - **Design**: Figma, Adobe CC
