@@ -2,7 +2,6 @@
 
 I'm Hector, a.k.a. Bombillazo 💡
 
-- 👨‍💻 I’m building [Hyperion](https://www.hyperion.finance/?referral-code=a7e73eb0c05f0c8e94525bb9ee31b837), a financial solution for small businesses! 🌲📈
 - ⚙️ I have over ten years of engineering experience. I've worked on every part of the software architecture and development cycle. Currently, my preferred technologies are:
   - **Programming**: TypeScript
   - **Front-End**: React, Next.js
